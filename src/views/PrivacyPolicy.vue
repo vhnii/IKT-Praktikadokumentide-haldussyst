@@ -4,7 +4,7 @@
 
         <div class="container">
             <p>
-                Privaatsustingimused kehtivad veebirakenduse domain.ee kasutamisel ning keskkonnas kogutud andmete töötlemisel. 
+                Privaatsustingimused kehtivad veebirakenduse praktika.ikt.khk.ee kasutamisel ning keskkonnas kogutud andmete töötlemisel. 
                 Tartu Kutsehariduskeskus haldab veebikeskkonda ning on kogutud isikuandmete vastutav töötleja. 
                 Privaatsustingimustes kirjeldatakse kuidas Tartu Kutsehariduskeskus töötleb (kogub, kasutab, säilitab, edastab, kustutab jne) andmeid.</p>
             

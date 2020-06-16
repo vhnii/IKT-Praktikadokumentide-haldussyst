@@ -117,6 +117,7 @@ export default {
         width: 90%;
         background-color: #0099d8;
         color: white;
+        border: 0;
         border-bottom-width: 1px;
         border-bottom-style: solid;
         border-bottom-color: #0087bc;

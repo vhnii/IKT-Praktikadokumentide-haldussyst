@@ -98,7 +98,6 @@ export default {
     display: flex;
     flex-direction: column;
     align-content: center;
-    justify-content: center;
     padding: 5rem 0;
 
     .headline {

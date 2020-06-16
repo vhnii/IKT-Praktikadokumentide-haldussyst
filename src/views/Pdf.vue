@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="wrapper">
+    <div class="wrapper" v-if="this.taotlus">
       <img id="logo" src="../assets/khk_logo.png" />
       <div class="flex space-between">
         <h1 id="heading">Taotlus</h1>
@@ -21,7 +21,7 @@
           <p>{{taotlus[0].taotlus.periood}}</p>
         </div>
         <div class="flex">
-          <p>Praktika maht astronoomilistes tundides EKAP-tes:</p>
+          <p>Praktika maht astronoomilistes tundides, EKAP-tes:</p>
           <p>{{taotlus[0].taotlus.maht}}</p>
         </div>
       </div>
@@ -85,7 +85,7 @@ export default {
   name: "pdf",
   data() {
     return {
-      taotlus: []
+      taotlus: null
     }
   },
   methods: {

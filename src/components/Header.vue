@@ -33,6 +33,7 @@ export default {
       axios.get('https://praktika.ikt.khk.ee:5000/api/auth/logout', {withCredentials: true})
       this.$store.commit('LOGOUT')
       this.$router.push('/')
+      this.isActive = false;
     },
   },
   computed: {

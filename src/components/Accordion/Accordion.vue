@@ -38,7 +38,7 @@ export default {
   },
   methods: {
     URL(i) {
-      return `/taotlused/${i.taotlus._id}/${i.taotlus.opilase_nimi} ${moment(i.created).format('DD.MM.YYYY')}.pdf`
+      return `https://praktika.ikt.khk.ee:5000/taotlused/${i.taotlus._id}/${i.taotlus.opilase_nimi} ${moment(i.created).format('DD.MM.YYYY')}.pdf`
     },
     localDateFormat(date) {
       return moment.utc(date).format('DD.MM.YYYY');

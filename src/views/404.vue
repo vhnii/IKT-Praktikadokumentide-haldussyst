@@ -25,7 +25,8 @@ export default {
         .wrapper {
             text-align: center;
             color: #ffffff;
-            padding: 5rem;
+            padding: 2rem 0;
+            
 
             h1 {
                 font-size: 3rem;
@@ -46,6 +47,14 @@ export default {
                 font-size: 0.875rem;
                 min-width: 110px;
                 text-align: center;
+            }
+        }
+    }
+
+    @media (min-width: 768px) {
+        section {
+            .wrapper {
+                padding: 5rem;
             }
         }
     }

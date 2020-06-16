@@ -99,8 +99,7 @@ export default {
       if (!this.blockRemoval) this.tasks.splice(index, 1)
     },
     SendApplication() {
-      const options = { 
-        headers: {'Content-Type': 'application/json',}, withCredentials: true}
+      const options = {headers: {'Content-Type': 'application/json'}, withCredentials: true}
 
       if(this.gdpr == true) {
 
@@ -127,8 +126,6 @@ export default {
           }
         })
 
-        this.nimi = '';
-        this.eriala = '';
         this.praktikaperiood = '';
         this.praktika_maht = '';
         this.ettevote_email = '';
