@@ -166,6 +166,11 @@ export default {
         this.tasks = res.data.ulesanded
         this.opilase_nimi = res.data.opilase_nimi
       })
+      .catch((error) => {
+        if (error) {
+          this.$router.push({name: '404'});
+        }
+      })
     }
   },
   mounted() {
