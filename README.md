@@ -1,4 +1,7 @@
-# IKT-osakonna praktikahaldussüsteem
+# Internship documentation system for Tartu Kutsehariduskeskus's IKT department
+
+Internship documentation system front-end for Tartu Kutsehariduskeskus's IKT department.
+
 
 ## Project setup
 ```
@@ -15,15 +18,6 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Authors
+[vhnii](https://www.github.com/vhnii) - *Front-end*
+[heiki50y](https://www.github.com/heiki50y) - *Back-end*
