@@ -19,5 +19,5 @@ npm run build
 ```
 
 ### Authors
-[vhnii](https://www.github.com/vhnii) - *Front-end*
-[heiki50y](https://www.github.com/heiki50y) - *Back-end*
+*Front-end, PDF Generation, File Upload, Miscs in back-end* - [vhnii](https://www.github.com/vhnii)  
+*Back-end*  - [heiki50y](https://www.github.com/heiki50y)
