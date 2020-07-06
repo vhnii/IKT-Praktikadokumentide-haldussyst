@@ -20,4 +20,4 @@ npm run build
 
 ### Authors
 *Front-end, PDF Generation, File Upload, Miscs in back-end* - [vhnii](https://www.github.com/vhnii)  
-*Back-end*  - [heiki50y](https://www.github.com/heiki50y)
+[*Back-end*](https://github.com/heiki50y/ikt_2)  - [heiki50y](https://www.github.com/heiki50y)
