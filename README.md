@@ -27,6 +27,7 @@ Test users:
 
 - password: qwerty
 
+Guide:
 - Create an internship application as a student
 - Go to the link from the student application to fill out employees application side
 - Log in as admin account and see the internship application
