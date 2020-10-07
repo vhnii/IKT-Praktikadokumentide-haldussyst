@@ -19,7 +19,7 @@ npm run build
 ```
 
 ### Demo
-[Live Demo](https://fierce-peak-62472.herokuapp.com/)
+[Live Demo](https://vhnii.com/)
 
 Test users:  
 - admin@khk.ee 
