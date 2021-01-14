@@ -1,6 +1,6 @@
 # Internship documentation system for Tartu Kutsehariduskeskus's IKT department
 
-Internship documentation system **prototype** front-end for Tartu Vocational Education Centre's IKT department.
+Internship documentation system **prototype** for Tartu Vocational Education Centre's IKT department.
 
 ## Project setup
 ```
